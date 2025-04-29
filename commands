@@ -8,3 +8,4 @@ touch server.js
   npm create vite@latest client --template react
 cd client 
 npm install
+npm install axios
