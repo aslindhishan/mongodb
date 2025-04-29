@@ -5,7 +5,7 @@ npm install express cors dotenv  mongoose nodemon
 touch server.js
 
 
-  npm create vite@latest client --template react
+  npm create vite@latest client --template react(react,java script)
 cd client 
 npm install
 npm install axios
