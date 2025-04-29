@@ -1,0 +1,10 @@
+mkdir server
+cd server
+npm init -y
+npm install express cors dotenv  mongoose nodemon
+touch server.js
+
+
+  npm create vite@latest client --template react
+cd client 
+npm install
